@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Друга\Робота\код\2 лаба\Source.cpp(15,13): error C2065: 'результат': undeclared identifier
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Друга\Робота\код\2 лаба\Source.cpp(15,32): error C2146: syntax error: missing ';' before identifier 'обчислення'
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Друга\Робота\код\2 лаба\Source.cpp(15,32): error C2065: 'обчислення': undeclared identifier
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Друга\Робота\код\2 лаба\Source.cpp(15,53): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Друга\Робота\код\2 лаба\Source.cpp(15,55): error C2065: 'го': undeclared identifier
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Друга\Робота\код\2 лаба\Source.cpp(15,60): error C2146: syntax error: missing ';' before identifier 'виразу'
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Друга\Робота\код\2 лаба\Source.cpp(15,60): error C2065: 'виразу': undeclared identifier
+C:\Users\Олег\Desktop\Лаби\Алгоритмізація та програмування\Друга\Робота\код\2 лаба\Source.cpp(17,2): error C2146: syntax error: missing ';' before identifier 'cout'
